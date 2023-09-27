@@ -242,4 +242,4 @@ async def sync(interaction: discord.Interaction):
         print('Command tree synced.')
     else:
         await interaction.response.send_message('You must be the owner to use this command!')
-client.run("MTA0Mjg0NTEzNTMyODc4ODUxMQ.G1UE0y.pa9L3WZsopVbKpzUbI9xbXDlVmx9l7gGtYYVJQ") # paste your token here.
+client.run("") # paste your token here.
