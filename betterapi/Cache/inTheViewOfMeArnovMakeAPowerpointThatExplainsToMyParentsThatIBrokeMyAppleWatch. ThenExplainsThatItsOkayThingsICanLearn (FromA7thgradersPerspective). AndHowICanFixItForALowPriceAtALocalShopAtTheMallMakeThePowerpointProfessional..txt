@@ -1,0 +1,40 @@
+#Title: My Broken Apple Watch - Embracing Learning Opportunities
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction
+2. What Happened?
+3. What Can I Learn?
+4. How to Fix It?
+5. Conclusion
+
+#Slide: 2
+#Header: Introduction
+#Content: Hi, Mom and Dad! I want to share with you what happened to my Apple Watch and what I can learn from it. Don't worry, it's not the end of the world!
+
+#Slide: 3
+#Header: What Happened?
+#Content: I accidentally dropped my Apple Watch and the screen cracked. I was upset, but I learned that accidents happen, and it's important to take responsibility for my actions.
+
+#Slide: 4
+#Header: What Can I Learn?
+#Content: In breaking my Apple Watch, I have the opportunity to learn valuable lessons about responsibility, honesty, and taking care of my possessions. I can also learn about the importance of budgeting and saving money for unexpected expenses.
+
+#Slide: 5
+#Header: How to Fix It?
+#Content: I have found a reputable and affordable repair shop at the mall that can fix my Apple Watch for a low price. They offer a warranty and have great reviews, so we can trust them.
+
+#Slide: 6
+#Header: Conclusion
+#Content: Breaking my Apple Watch was a learning opportunity for me. I learned about taking responsibility for my actions, budgeting for unexpected expenses, and finding trustworthy repair shops. Thank you for supporting me!
+
+#Slide: 7
+#Header: Other Topics
+#Content: If you have any other topics that you would like me to cover or discuss, I am happy to have an open conversation with you.
+
+#Slide: 8
+#Header: Resources
+#Content: 1. Link to repair shop website
+2. Other helpful resources
+
+#Slide: END 

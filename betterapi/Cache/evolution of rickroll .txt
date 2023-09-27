@@ -1,0 +1,43 @@
+#Title: The Evolution of Rickrolling
+
+#Slide 1
+#Header: Table of Contents
+#Content: 1. Introduction 
+2. What is Rickrolling 
+3. Early Origins 
+4. The Meme Goes Mainstream 
+5. Controversy and Legacy
+
+#Slide 2
+#Header: Introduction
+#Content: Introduced in 2007, "rickrolling" has become a popular internet meme that has continued to evolve over the years.
+
+#Slide 3
+#Header: What is Rickrolling
+#Content: Rickrolling is a bait-and-switch prank where a person is led to click on a hyperlink that takes them to the music video for Rick Astley's hit song, "Never Gonna Give You Up."
+
+#Slide 4
+#Header: Early Origins
+#Content: The first recorded instance of rickrolling occurred on the online community 4chan in 2007. It quickly spread to other platforms such as social media and email.
+
+#Slide 5 
+#Header: The Meme Goes Mainstream
+#Content: Rickrolling gained mainstream recognition in 2008 when it was featured in major television shows and at live events such as the Macy's Thanksgiving Day Parade.
+
+#Slide 6
+#Header: Controversy
+#Content: Some have criticized rickrolling as a form of spam or harassment. However, others argue that it is a harmless and humorous prank.
+
+#Slide 7
+#Header: Legacy
+#Content: Despite its origins as a simple internet prank, rickrolling has become a cultural phenomenon that has influenced music, memes, and popular culture.
+
+#Slide 8
+#Header: Conclusion
+#Content: From its beginnings on 4chan to its mainstream recognition, the evolution of rickrolling is a testament to the power of the internet and the creativity of its users.
+
+#Slide 9
+#Header: Summary
+#Content: The evolution of rickrolling spans over a decade and has had a significant impact on internet culture. From its origins on 4chan to its mainstream recognition, rickrolling is a testament to the power of the internet to create and spread new trends and memes.
+
+#Slide: END

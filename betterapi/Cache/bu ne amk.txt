@@ -1,0 +1,39 @@
+#Title: Bu ne amk
+
+#Slide: 1
+#Header: Table of contents
+#Content: 1. Introduction
+2. Definition of "Bu ne amk"
+3. Context of "Bu ne amk"
+
+#Slide: 2
+#Header: Introduction
+#Content: "Bu ne amk" is a popular expression used in Turkish language, especially by younger generations. Its meaning and context will be explored in the following slides.
+
+#Slide: 3
+#Header: Definition of "Bu ne amk"
+#Content: "Bu ne amk" can be translated to English as "What the f*** is this?" or "What the hell is this?" It is an exclamation of surprise, confusion, or frustration.
+
+#Slide: 4
+#Header: Context of "Bu ne amk"
+#Content: "Bu ne amk" is often used in informal settings, such as among friends or on social media. It can be used to express one's reaction to a variety of things, including images, videos, news, or situations.
+
+#Slide: 5
+#Header: Examples of "Bu ne amk"
+#Content: - A friend shows you a video of a strange dance: "Bu ne amk?"
+          - You see a news article with a strange headline: "Bu ne amk?"
+          - You encounter a difficult problem: "Bu ne amk?"
+
+#Slide: 6
+#Header: Variations of "Bu ne amk"
+#Content: There are variations of "Bu ne amk" that are used in certain contexts, such as "Bu ne lan?" or "Bu ne ya?" These variations have similar meanings and are also used to express surprise, confusion, or frustration.
+
+#Slide: 7
+#Header: Cultural significance of "Bu ne amk"
+#Content: "Bu ne amk" has become a part of the informal language and culture of the Turkish society, especially among the youth. It reflects the changing attitudes and values of the younger generations.
+
+#Slide: 8
+#Header: Conclusion
+#Content: "Bu ne amk" is a colorful expression that adds humor and emotion to the language. Understanding its meaning and context can help in communicating effectively with Turkish speakers, especially in informal settings.
+
+#Slide: END

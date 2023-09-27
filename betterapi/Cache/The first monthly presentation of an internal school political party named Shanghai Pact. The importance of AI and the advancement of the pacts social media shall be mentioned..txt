@@ -1,0 +1,49 @@
+#Title: Shanghai Pact Monthly Presentation
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to the Shanghai Pact
+2. Importance of AI in Education
+3. Advancement of Social Media in Education
+4. Upcoming Election Information
+5. Call to Action
+
+#Slide: 2
+#Header: Introduction to the Shanghai Pact
+#Content: 
+Shanghai Pact is a student-led political party within the school focused on promoting education reforms and ensuring students have the best possible learning experience. 
+
+#Slide: 3
+#Header: Importance of AI in Education
+#Content: 
+AI can revolutionize traditional teaching techniques by ensuring personalized learning, optimizing assessments, and making data-driven decisions.
+
+#Slide: 4
+#Header: Advancement of Social Media in Education
+#Content: 
+The Shanghai Pact has made significant advancements in social media to better communicate with students, publicize our goals, and raise awareness about ways to improve education.
+
+#Slide: 5
+#Header: Upcoming Election Information
+#Content: 
+Shanghai Pact will be hosting elections soon. Students can join the party and run for positions to be a part of this incredible reform process. 
+
+#Slide: 6
+#Header: Call to Action
+#Content: 
+Join Shanghai Pact to be part of the school political party, create a positive impact through education reform, and reap the benefits of this experience to ensure a better future. 
+
+#Slide: 7
+#Headers: Conclusion
+#Content: 
+This concludes the Shanghai Pact Monthly Presentation. We hope you have gained valuable insights into the importance of AI in education, advancements in social media, and the upcoming elections.
+
+#Slide: 8
+#Header: Sources
+#Content: 
+Sources used for this presentation 
+1. AI in Education: Current Status and Future Prospects. (https://link.springer.com/chapter/10.1007/978-3-030-18772-9_63)
+2. Social Media and Education: The Pros and Cons. (https://blog.hubspot.com/marketing/advantages-disadvantages-social-media-education)
+
+

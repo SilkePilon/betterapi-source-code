@@ -1,0 +1,50 @@
+#Title: Who is Elon Musk
+
+#Slide: 1
+#Header: Table of contents
+#Content: 1. Introduction 
+2. Early Life
+3. Education 
+4. Zip2 and PayPal 
+5. SpaceX 
+6. Tesla 
+7. SolarCity 
+8. Hyperloop
+
+#Slide: 2
+#Header: Introduction
+#Content: Elon Musk is a South African-born American entrepreneur and business magnate. He is the owner of numerous companies including SpaceX, Tesla, Neuralink, and The Boring Company.
+
+#Slide: 3
+#Header: Early Life
+#Content: Born in South Africa in 1971, Musk moved to the United States in 1995. His early interests included computing and space travel.
+
+#Slide: 4
+#Header: Education
+#Content: Musk attended the University of Pennsylvania, where he obtained degrees in physics and economics.
+
+#Slide: 5
+#Header: Zip2 and PayPal
+#Content: In the late 90s, Musk co-founded Zip2, an online city guide which he later sold for $307 million. He then went on to co-found PayPal, an online payment system that was sold to eBay for $1.5 billion.
+
+#Slide: 6
+#Header: SpaceX
+#Content: In 2002, Musk founded SpaceX with the goal of making space travel more affordable and accessible. The company has since launched numerous missions and has plans for manned missions to Mars.
+
+#Slide: 7
+#Header: Tesla
+#Content: In 2003, Musk co-founded Tesla Motors, an electric car company that has revolutionized the automotive industry.
+
+#Slide: 8
+#Header: SolarCity
+#Content: Musk is also the co-founder of SolarCity, a company focused on solar energy and clean technology.
+
+#Slide: 9
+#Header: Hyperloop
+#Content: In addition to his other ventures, Musk has also proposed the concept of the Hyperloop, a high-speed transportation system that would use air pressure to propel passengers through a vacuum-sealed tube.
+
+#Slide: 10
+#Header: Summary
+#Content: Elon Musk is a visionary entrepreneur with a reputation for pushing boundaries and taking on ambitious projects. He has founded numerous successful companies, including Tesla and SpaceX, and has helped shape the future of transportation and space exploration.
+
+#Slide: END

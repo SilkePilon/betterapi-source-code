@@ -1,0 +1,43 @@
+#Title: Why the iPhone 14 Pro is right for me
+
+#Slide: 1
+#Header: Overview
+#Content: 1. Introduction
+2. Key Specifications
+3. Design
+
+#Slide: 2
+#Header: Introduction
+#Content: The iPhone 14 Pro is the latest premium phone from Apple, ideal for - those looking for a high-performance phone with top-level camera features.
+
+#Slide: 3
+#Header: Key Specifications
+#Content: 1. A15 chip, 5G capability
+2. Triple-camera setup with 12MP telephoto, 12MP ultra-wide, and 12MP wide
+3. Super Retina XDR display with ProMotion technology
+
+#Slide: 4
+#Header: Design
+#Content: 1. Ceramic Shield front cover
+2. Flat-edge design with stainless steel band
+3. Four color options available
+
+#Slide: 5
+#Header: Photography features
+#Content: 1. Night mode, deep fusion technology
+2. ProRes video recording
+3. Dolby Vision HDR recording
+
+#Slide: 6
+#Header: Battery life and Storage
+#Content: 1. ProMotion technology improves battery performance
+2. Storage options include 128GB, 256GB, 512GB, and 1TB
+
+#Slide: 7
+#Header: Service and Support
+#Content: 1. Three-Year warranty
+2. AppleCare+
+
+#Slide: 8
+#Header: Conclusion
+#Content: The iPhone 14 Pro is an exceptional choice for anyone who values high-quality features and cutting-edge technology in a phone.

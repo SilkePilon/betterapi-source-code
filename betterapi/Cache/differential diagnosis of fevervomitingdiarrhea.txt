@@ -1,0 +1,42 @@
+#Title: Differential Diagnosis of Fever, Vomiting, and Diarrhea
+
+#Slide: 1
+#Header: table of contents
+#Content: 1. Overview of Differential Diagnosis 
+2. Common Causes of Fever, Vomiting, and Diarrhea
+3. Clinical Presentation of Fever, Vomiting and Diarrhea
+4. Diagnostic Criteria for Fever, Vomiting, and Diarrhea
+5. Treatment Options for Fever, Vomiting, and Diarrhea
+6. Prognosis of Fever, Vomiting, and Diarrhea
+7. Prevention of Fever, Vomiting, and Diarrhea
+8. Take Home Points
+
+#Slide: 2
+#Header: Overview of Differential Diagnosis
+#Content: Differential diagnosis involves identifying the root cause of the presenting symptoms. With fever, vomiting, and diarrhea, multiple conditions must be considered.
+
+#Slide: 3
+#Header: Common Causes 
+#Content: The most common causes of fever, vomiting, and diarrhea include viral gastroenteritis, bacterial infections, food poisoning, inflammatory bowel disease, and medication side-effects.
+
+#Slide: 4
+#Header: Clinical Presentation
+#Content: Symptoms of fever, vomiting, and diarrhea can present in a variety of ways. Fever can accompany nausea, vomiting, and diarrhea, and each symptom can have different clinical characteristics.
+
+#Slide: 5
+#Header: Diagnostic Criteria
+#Content: Diagnostic criteria for fever, vomiting, and diarrhea include physical examinations, stool cultures, blood tests, endoscopic evaluations, and imaging studies.
+
+#Slide: 6
+#Header: Treatment Options
+#Content: Treatment for fever, vomiting, and diarrhea depends on the underlying cause. This may involve lifestyle modifications, such as avoiding certain foods or drinks, taking medications to manage symptoms, or undergoing surgical interventions for more serious conditions.
+
+#Slide: 7
+#Header: Prognosis
+#Content: With proper diagnosis and treatment, individuals with fever, vomiting, and diarrhea can normally expect to have a good prognosis. However, complications can occur from more serious underlying conditions, such as dehydration, hemolytic uremic syndrome, and sepsis.
+
+#Slide: 8
+#Header: Prevention
+#Content: The best prevention for fever, vomiting, and diarrhea is good hygiene practices, such as frequent hand washing, safe food handling and avoiding high risk foods, staying up-to-date on vaccinations, and avoiding close contact with individuals who are sick.
+
+#Slide

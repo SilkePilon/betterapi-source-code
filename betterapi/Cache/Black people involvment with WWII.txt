@@ -1,0 +1,44 @@
+#Title: Black People Involvement with World War II
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction
+2. Tuskegee Airmen
+3. 761st Tank Battalion
+4. Women's Army Corps
+5. Navajo Code Talkers
+6. Civil Rights Movement
+7. Legacy
+8. Conclusion
+
+#Slide: 2
+#Header: Introduction
+#Content: World War II had a significant impact on the black population in the United States. During this war, many African Americans contributed to the war effort in various ways, despite facing injustices and discrimination at home.
+
+#Slide: 3
+#Header: Tuskegee Airmen
+#Content: The Tuskegee Airmen were the first black military aviators in the U.S. Army Air Corps. They faced significant racism and discrimination but went on to achieve an excellent combat record in escorting bombers, ultimately helping to pave the way for the desegregation of the military.
+
+#Slide: 4
+#Header: 761st Tank Battalion
+#Content: The 761st Tank Battalion, also known as the Black Panthers, was the first all-black tank unit to see combat in World War II. They participated in several major battles, including the Battle of the Bulge.
+
+#Slide: 5
+#Header: Women's Army Corps
+#Content: The Women's Army Corps (WAC) played a critical role in supporting the U.S. war effort. Black women served in segregated units and contributed to the war effort in various roles, including clerical work, nursing, and technical positions.
+
+#Slide: 6
+#Header: Navajo Code Talkers
+#Content: The Navajo Code Talkers were a group of Native American soldiers who used their language to create an unbreakable code for military messages that the Japanese were unable to decipher.
+
+#Slide: 7
+#Header: Civil Rights Movement
+#Content: The contributions of black soldiers during World War II helped to pave the way for the Civil Rights Movement. Many soldiers who had served in the military returned home to continue advocating for their rights and the rights of others.
+
+#Slide: 8
+#Header: Legacy
+#Content: The contributions of black people during World War II played a significant role in the eventual desegregation of the military and helped advance civil rights in the United States.
+
+#Slide: 9
+#Header: Conclusion
+#Content: The

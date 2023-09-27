@@ -1,0 +1,42 @@
+#Title: Kemerdekaan Indonesia
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Background Information
+2. Struggle for Independence
+3. Declaration of Independence
+4. Key Figures
+5. Achievements Post-Independence 
+6. Cultural Significance
+7. Conclusion
+
+#Slide: 2
+#Header: Background Information
+#Content: Indonesia was a Dutch colony for over 300 years before achieving independence in 1945. 
+
+#Slide: 3
+#Header: Struggle for Independence
+#Content: The people of Indonesia fought long and hard to gain their independence from the Dutch, facing violence, imprisonment, and death.
+
+#Slide: 4
+#Header: Declaration of Independence
+#Content: The Republic of Indonesia declared their independence on August 17, 1945, marking a turning point in their history.
+
+#Slide: 5
+#Header: Key Figures
+#Content: Key figures in the Indonesian independence movement include Soekarno, Hatta, and Sutomo, among others.
+
+#Slide: 6
+#Header: Achievements Post-Independence
+#Content: Since gaining independence, Indonesia has made significant strides in economic development, infrastructure, education, and social progress.
+
+#Slide: 7
+#Header: Cultural Significance
+#Content: Kemerdekaan Indonesia is celebrated annually on August 17 and is a significant part of Indonesian culture and heritage.
+
+#Slide: 8
+#Header: Conclusion
+#Content: Indonesia's independence was hard-earned and continues to be a source of pride and inspiration for its people. 
+
+#Slide: END

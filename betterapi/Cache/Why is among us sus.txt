@@ -1,0 +1,36 @@
+#Title: Why is Among Us Sus?
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. What is Among Us?
+2. Why is the Term "Sus" Used?
+3. Popular Sus Moments in Among Us
+4. Strategies to Avoid Being Sus 
+
+#Slide: 2
+#Header: What is Among Us?
+#Content: Among Us is a popular multiplayer game where players work together to maintain a spaceship, but some players are secretly imposters trying to sabotage the mission. 
+
+#Slide: 3
+#Header: Why is the Term "Sus" Used?
+#Content: The term "sus" is short for "suspicious" and is used to describe players who are acting in a way that suggests they are the imposter, such as avoiding tasks or being found near a dead body.
+
+#Slide: 4
+#Header: Popular Sus Moments in Among Us
+#Content: Some popular sus moments in Among Us include players venting in front of others, falsely accusing innocent players, or pretending to do tasks that don't exist.
+
+#Slide: 5
+#Header: Strategies to Avoid Being Sus
+#Content: To avoid being sus in Among Us, try to stay close to other crewmates, complete tasks quickly and efficiently, and report any suspicious behavior to the rest of the players.
+
+#Slide: 6
+#Header: Strategies to Avoid Being Sus (Continued)
+#Content: Additionally, try to avoid accusing other players without solid evidence and be willing to defend yourself if you are accused of being the imposter.
+
+#Slide: 7
+#Header: Other Sus Factors
+#Content: Other factors that may contribute to a player being sus in Among Us include their behavior in previous games, their body language, and their voting patterns.
+
+#Slide: 8
+#Header: Conclusion
+#Content: In conclusion, sus behavior in Among Us can be a game-changer and can make the game even more fun and challenging. Use these strategies to stay ahead of the game and avoid being voted off the spaceship as the imposter.

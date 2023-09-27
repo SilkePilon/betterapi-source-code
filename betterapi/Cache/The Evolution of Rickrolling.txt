@@ -1,0 +1,43 @@
+#Title: The Evolution of Rickrolling
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. What is Rickrolling?
+2. Origin of Rickrolling
+3. Popularity of Rickrolling
+4. Spread of Rickrolling
+5. Rickrolling in popular culture
+6. The decline of Rickrolling
+7. Conclusion
+
+#Slide: 2
+#Header: What is Rickrolling?
+#Content: Rickrolling is a prank that involves tricking someone into clicking a link to the music video for Rick Astley's 1987 hit song "Never Gonna Give You Up."
+
+#Slide: 3
+#Header: Origin of Rickrolling
+#Content: The first known instance of Rickrolling occurred on the 4chan website in 2007, when a user posted a link to the music video disguised as a preview for the upcoming video game "Grand Theft Auto IV."
+
+#Slide: 4
+#Header: Popularity of Rickrolling
+#Content: Rickrolling quickly became a viral sensation, with millions of people being tricked into clicking on the link. It became so popular that even major organizations and celebrities were joining in on the fun.
+
+#Slide: 5
+#Header: Spread of Rickrolling
+#Content: Rickrolling spread beyond the internet into TV shows, movies, and even live events. In some cases, the prank became an entire performance, with many people joining in on the singing and dancing.
+
+#Slide: 6
+#Header: Rickrolling in Popular Culture
+#Content: Rickrolling has been referenced in various TV shows, movies, and music videos, cementing its place in popular culture. Rick Astley himself has even embraced the phenomenon, performing "Never Gonna Give You Up" at live events.
+
+#Slide: 7
+#Header: The Decline of Rickrolling
+#Content: While Rickrolling is not as popular as it once was, it still remains a beloved meme among internet users. However, the advent of social media and the rise of other memes have contributed to its decline.
+
+#Slide: 8
+#Header: Conclusion
+#Content: Rickrolling may have started as a prank, but it has become a cultural touchstone that will always be a part of internet history. Its enduring popularity is a testament to the power of memes in modern society.
+
+#Slide: End
+
+(Note: This presentation text is approximately 250 characters per slide, as requested.)

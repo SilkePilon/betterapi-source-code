@@ -1,0 +1,47 @@
+#Title: Different Kinds of Android Phones
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction
+2. Android OS 
+3. Categories of Android Phones
+4. Flagship Android Phones
+5. Mid-range Android Phones
+6. Budget Android Phones
+7. Android One Phones
+8. Foldable Android Phones
+
+#Slide: 2
+#Header: Android OS
+#Content: Android is an operating system for mobile devices developed by Google. It is a popular platform for smartphones, tablets, and wearable devices.
+
+#Slide: 3
+#Header: Categories of Android Phones
+#Content: Android phones can be categorized into flagship, mid-range, budget, and Android One phones based on their hardware specifications and price range.
+
+#Slide: 4
+#Header: Flagship Android Phones
+#Content: Flagship Android phones are high-end devices that offer top-of-the-line hardware and advanced features. Examples include Samsung Galaxy S21, Google Pixel 5, and OnePlus 9 Pro.
+
+#Slide: 5
+#Header: Mid-range Android Phones
+#Content: Mid-range Android phones are less expensive than flagship devices but still have good hardware specifications and features. Examples include Xiaomi Redmi Note 10, Motorola Moto G Power, and Samsung Galaxy A52.
+
+#Slide: 6
+#Header: Budget Android Phones
+#Content: Budget Android phones are the most affordable devices with basic hardware specifications and features. Examples include Nokia 1.4, Samsung Galaxy A02, and Motorola Moto E.
+
+#Slide: 7
+#Header: Android One Phones
+#Content: Android One phones are devices that run on stock Android without any manufacturer modifications. These phones receive timely software updates directly from Google. Examples include Nokia 7.2, Xiaomi Mi A3, and Motorola One Action.
+
+#Slide: 8
+#Header: Foldable Android Phones
+#Content: Foldable Android phones are the latest trend in smartphones. They have a foldable display that allows them to transform from a smartphone to a tablet. Examples include Samsung Galaxy Fold, Motorola Razr 5G, and Huawei Mate X2.
+
+#Slide: 9
+#Header: Conclusion
+#Content: In conclusion, Android phones are available in various categories based on their hardware and price range. Understanding the different types helps to make an informed decision when purchasing a new phone.
+
+#Slide: END

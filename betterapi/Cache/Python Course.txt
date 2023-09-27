@@ -1,0 +1,62 @@
+#Title: PYTHON COURSE
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Python
+2. Basic Data Types and Operations
+3. Control Flow Statements
+4. Functions
+5. Working with Files
+6. Object-Oriented Programming in Python
+7. Modules and Packages
+8. Advanced Topics in Python
+
+#Slide: 2
+#Header: Introduction to Python
+#Content: 
+Python is a high-level, interpreted programming language used in web development, data science, and more.
+
+#Slide: 3
+#Header: Basic Data Types and Operations
+#Content: 
+Python has several built-in data types like strings, integers, floats, and more. These data types can be manipulated using various operations like arithmetic operations, comparisons, and logical operations.
+
+#Slide: 4
+#Header: Control Flow Statements
+#Content: 
+Python provides several control flow statements like if, else, and loops, which can be used to control the execution of the program based on various conditions.
+
+#Slide: 5
+#Header: Functions
+#Content: 
+Functions in Python allow code to be reused and organized. Python functions can accept arguments, return values, and be recursive.
+
+#Slide: 6
+#Header: Working with Files
+#Content: 
+Python provides a rich set of tools for working with files. Data can be read from and written to files using the file I/O methods.
+
+#Slide: 7
+#Header: Object-Oriented Programming in Python
+#Content: 
+Python supports object-oriented programming (OOP). Classes and objects can be created to represent real-world concepts and to organize related code.
+
+#Slide: 8
+#Header: Modules and Packages
+#Content: 
+Python modules are files containing Python code, while packages are collections of modules. Python modules and packages help to organize code and make it reusable.
+
+#Slide: 9
+#Header: Advanced topics in Python
+#Content: 
+There are several advanced topics to explore in Python, including Regular Expressions, Multi-threading, Networking and more.
+
+#Slide: 10
+#Header: Summary
+#Content: 
+In this Python course, we covered the basics of Python, including data types, control flow, functions, and object-oriented programming. We also touched on file I/O, modules, packages, and advanced topics like regular expressions and networking.
+
+#Slide: END
+
+I hope this helps! Let me know if you have any

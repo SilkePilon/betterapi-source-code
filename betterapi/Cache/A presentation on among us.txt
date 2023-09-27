@@ -1,0 +1,44 @@
+#Title: A Presentation on Among Us
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to Among Us
+2. Game Mechanics 
+3. Maps in Among Us 
+4. Strategies and Tips 
+5. Customizations
+6. Among Us Popularity 
+7. Among Us Merchandise 
+8. Summary 
+
+#Slide: 2
+#Header: Introduction to Among Us
+#Content: Among Us is a multiplayer game that takes place in a spaceship. Players have to identify impostors within the crew while performing various tasks. 
+
+#Slide: 3
+#Header: Game Mechanics
+#Content: Players can vote to eject who they think the impostor is. Impostors can sabotage the spaceship, and kill crewmates. Crewmates need to complete tasks.
+
+#Slide: 4
+#Header: Maps in Among Us
+#Content: Among Us has three main maps - The Skeld, Mira HQ, and Polus. The maps come in different sizes and have individual tasks, vent systems and security cameras.
+
+#Slide: 5
+#Header: Strategies and Tips
+#Content: Stay with other players, report suspicious behavior, and be aware of faking tasks are a few tips. Venting and using security cameras are popular strategies.
+
+#Slide: 6
+#Header: Customizations
+#Content: Shirts, hats, and skins can be customized depending on the player's preference. These cosmetic items can be purchased in-game. Many customizations are inspired by pop culture references.
+
+#Slide: 7
+#Header: Popularity
+#Content: Among Us gained massive popularity in 2020 when popular streamers featured the game on their channels. It won the award for the Best Multiplayer Game in 2020.
+ 
+#Slide: 8
+#Header: Merchandise
+#Content: Among Us merchandise such as plushies, t-shirts, socks, and phone cases are widely available. It has also inspired fan art and many memes.
+
+#Slide: 9
+#Header: Summary
+#Content: Among us is an addictive multiplayer game with a sci-fi twist. It requires strategy, teamwork, and attention to detail. The game's customization and popularity have had an enormous impact on players worldwide.

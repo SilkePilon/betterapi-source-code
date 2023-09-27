@@ -1,0 +1,52 @@
+#Title: Final Year Project Presentation
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction
+2. Related Work
+3. Design and Implementation
+4. Case Study
+5. Summary
+
+#Slide: 2
+#Header: Introduction
+#Content: 
+- Brief introduction to the project
+- Motivation behind the project
+- Objectives of the project
+- Problem statement
+
+#Slide: 3
+#Header: Related Work
+#Content: 
+- Existing solutions to the problem
+- Literature review
+- Comparison of different approaches
+- Gaps in the existing solutions 
+
+#Slide: 4
+#Header: Design and Implementation
+#Content: 
+- System architecture
+- Design specifications
+- Technologies used
+- Implementation details 
+
+#Slide: 5
+#Header: Case Study
+#Content: 
+- A specific case study that showcases how the solution was implemented
+- Evaluation metrics used
+- Results of the evaluation
+- Limitations of the solution
+
+#Slide: 6
+#Header: Summary
+#Content: 
+- Recap of the problem and the solution
+- Benefits of the solution
+- Conclusions drawn
+- Potential future work
+
+#Slide: END

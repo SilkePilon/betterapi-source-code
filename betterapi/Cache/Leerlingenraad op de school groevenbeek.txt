@@ -1,0 +1,38 @@
+#Title: Leerlingenraad op school Groevenbeek
+
+#Slide: 1
+#Header: Inhoudsopgave
+#Content: 1. Wat is de leerlingenraad?
+2. Wie zit er in de leerlingenraad?
+3. Wat doet de leerlingenraad?
+4. Waarom is de leerlingenraad belangrijk?
+
+#Slide: 2
+#Header: Wat is de leerlingenraad?
+#Content: De leerlingenraad is een groep leerlingen die de belangen van de leerlingen van de school vertegenwoordigt.
+
+#Slide: 3
+#Header: Wie zit er in de leerlingenraad?
+#Content: De leerlingenraad bestaat uit gekozen vertegenwoordigers uit elke klas op de school.
+
+#Slide: 4
+#Header: Wat doet de leerlingenraad?
+#Content: De leerlingenraad bespreekt problemen en suggesties van de leerlingen en organiseert activiteiten voor de school.
+
+#Slide: 5
+#Header: Waarom is de leerlingenraad belangrijk?
+#Content: De leerlingenraad geeft leerlingen inspraak en invloed op beslissingen die belangrijk zijn voor de leerlingen en de school.
+
+#Slide: 6
+#Header: Activiteit: Verkiezingscampagne voor leerlingenraad
+#Content: Hoe kan jij jezelf promoten bij de verkiezingen voor de leerlingenraad? We geven je een aantal tips!
+
+#Slide: 7
+#Header: Activiteit: Brainstormsessie voor schoolverbeteringen
+#Content: Denk mee over hoe we de school kunnen verbeteren en kom met goede ideeën!
+
+#Slide: 8
+#Header: Samenvatting
+#Content: De leerlingenraad is belangrijk voor de inspraak van leerlingen op school en organiseert activiteiten. Elke leerling heeft de mogelijkheid om zich verkiesbaar te stellen en mee te denken over de school.
+
+#Slide: END

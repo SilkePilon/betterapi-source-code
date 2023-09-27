@@ -1,0 +1,41 @@
+#Title: The First Investor Presentation of Shanghai Pact
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Shanghai Pact
+2. The Importance of AI
+3. Advancements in Social Media
+4. Marketing Strategy
+5. Financial Plan
+6. Call to Action
+
+#Slide: 2
+#Header: Introduction to Shanghai Pact
+#Content: Shanghai Pact is an internal school political party aimed at bringing progressive change to campus.
+
+#Slide: 3
+#Header: The Importance of AI
+#Content: AI has the potential to revolutionize politics and campaigning, making it more accessible and effective.
+
+#Slide: 4
+#Header: Advancements in Social Media
+#Content: We plan to use social media to amplify our message and reach out to more students, using targeted advertising and influencer marketing.
+
+#Slide: 5
+#Header: Marketing Strategy
+#Content: Our strategy involves leveraging our connections with other student organizations, hosting campus-wide events, and utilizing creative guerrilla marketing tactics.
+
+#Slide: 6
+#Header: Financial Plan
+#Content: Our plan involves obtaining funding from sponsors and alumni, along with fundraising events and merchandise sales.
+
+#Slide: 7
+#Header: Call to Action
+#Content: Help us bring change to our campus and join the Shanghai Pact movement!
+
+#Slide: 8
+#Header: Thank you for your support!
+#Content: We appreciate your interest in Shanghai Pact and encourage you to get involved with our cause.
+
+#Slide: END

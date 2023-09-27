@@ -1,0 +1,25 @@
+#Title: COUP IN A SCHOOL POLITICAL GROUP
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. WHAT IS A COUP?
+2. EXAMPLES OF SCHOOL COUPS
+3. WHY ARE SCHOOL COUPS COMMON?
+
+#Slide: 2
+#Header: WHAT IS A COUP?
+#Content: A coup is a sudden, violent, and illegal seizure of power from a government or political group. In a school context, a coup could involve overthrowing the current leaders of a political group and taking over their positions.
+
+#Slide: 3
+#Header: EXAMPLES OF SCHOOL COUPS
+#Content: Some examples of school coups include secretly planning and executing a takeover of a political club's leadership, using manipulative tactics to gain power within a student organization, or leveraging personal connections to eclipse others in a school political group.
+
+#Slide: 4
+#Header: WHY ARE SCHOOL COUPS COMMON?
+#Content: School coups are common due to the intense competition to gain leadership positions in school political groups. The people involved have something at stake, that they might want to protect, which helps them come with a plan to overthrow the present leaders of an organization in their favor.
+
+#Slide: 5
+#Headers: SUMMARY
+#Content: In many high school and college campus political circles, coups are an unpopular but often necessary part of the process. They involve manipulating the power structure and undercutting opponents to gain the upper hand in a given organization.
+
+#Slide: END

@@ -1,0 +1,41 @@
+#Title: Greetings: How to Say Hello in Different Languages
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction
+2. Why Greetings Matter
+3. Examples of Greetings in Different Languages
+
+#Slide: 2
+#Header: What Are Greetings?
+#Content: Greetings are a way to acknowledge someone's presence and show respect. They can enhance social connections and improve relationships.
+
+#Slide: 3
+#Header: Greetings in English
+#Content: Common English greetings include "Hello," "Hi," and "Hey," which are suitable for formal and informal situations.
+
+#Slide: 4
+#Header: Greetings in Other Languages
+#Content: Here are a few examples of how to say "Hello" in other languages: 
+- Spanish: ¡Hola!
+- French: Bonjour!
+- German: Guten Tag!
+- Mandarin: 你好! (nǐ hǎo)
+
+#Slide: 5
+#Header: Cultural Differences in Greetings
+#Content: Greetings can vary widely across cultures. In Japan, for example, it is customary to bow as a sign of respect when greeting someone.
+
+#Slide: 6
+#Header: Non-Verbal Greetings
+#Content: Greetings can also be non-verbal, such as a nod of the head or a wave of the hand. These can be useful in situations where a verbal greeting might not be appropriate.
+
+#Slide: 7
+#Header: When Not to Greet Someone
+#Content: It's important to understand when a greeting might not be appropriate, such as in a quiet library or during an interview.
+
+#Slide: 8
+#Header: Summary
+#Content: Greetings are an important social custom that can help bring people together. By understanding the customs in different cultures, you can show respect and build stronger connections.
+
+#Slide: END

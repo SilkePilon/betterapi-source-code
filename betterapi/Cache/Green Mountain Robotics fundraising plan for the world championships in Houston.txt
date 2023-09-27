@@ -1,0 +1,42 @@
+#Title: Green Mountain Robotics Fundraising Plan for World Championships in Houston
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction
+2. Team Overview
+3. Fundraising Goals
+4. Fundraising Ideas
+5. Previous Successes
+6. Events for Fundraising
+
+#Slide: 2
+#Header: Introduction
+#Content: Green Mountain Robotics team is a group of students dedicated to robotics and aimed to attend the world championships in Houston. This presentation outlines their fundraising plans to help them achieve their goal.
+
+#Slide: 3
+#Header: Team Overview
+#Content: The team consists of 12 high school students from Green Mountain High School. They are passionate about robotics and have been working toward attending the world championships since the beginning of the school year.
+
+#Slide: 4
+#Header: Fundraising Goals
+#Content: The team's goal is to raise $25,000 to cover the costs of travel, lodging, and competition fees for their trip to Houston.
+
+#Slide: 5
+#Header: Fundraising Ideas
+#Content: The team plans to hold a car wash, bake sale, and organize a robotics competition for local high school students to raise funds.
+
+#Slide: 6
+#Header: Previous Successes
+#Content: In the past, the team raised $10,000 through a GoFundMe campaign and received donations from local businesses.
+
+#Slide: 7
+#Header: Events for Fundraising
+#Content: The team has planned a robotics demonstration and a raffle for various prizes to raise funds. They are also selling team t-shirts and buttons.
+
+#Slide: 8
+#Header: Summary
+#Content: The Green Mountain Robotics team is working hard to raise the necessary funds to attend the world championships in Houston. They have planned several fundraising events and have had success in the past, but still need support from the community to achieve their goal.
+
+#Slide: END
+
+I hope this presentation outline provides the necessary information regarding Green Mountain Robotics team's Fundraising plan for World Championships in Houston. If you have any questions or need any further assistance, please let me know.

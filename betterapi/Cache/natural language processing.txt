@@ -1,0 +1,50 @@
+#Title: NATURAL LANGUAGE PROCESSING
+
+#Slide: 1
+#Header: TABLE OF CONTENTS
+#Content: 1. INTRODUCTION TO NATURAL LANGUAGE PROCESSING
+2. TOKENIZATION
+3. PARTS OF SPEECH TAGGING
+4. NAMED ENTITY RECOGNITION
+5. SENTIMENT ANALYSIS
+6. TOPIC MODELING
+7. TEXT CLASSIFICATION
+8. CONCLUSION
+
+#Slide: 2
+#Header: INTRODUCTION TO NATURAL LANGUAGE PROCESSING
+#Content: Natural language processing (NLP) is a subfield of artificial intelligence that focuses on the interaction between human language and computers. 
+
+#Slide: 3
+#Header: TOKENIZATION
+#Content: Tokenization is the process of breaking up the text into individual words or phrases. 
+
+#Slide: 4
+#Header: PARTS OF SPEECH TAGGING
+#Content: Parts of speech tagging is the process of identifying and labeling the parts of speech of words in a sentence. 
+
+#Slide: 5
+#Header: NAMED ENTITY RECOGNITION
+#Content: Named entity recognition is the process of identifying and classifying named entities in text into predefined categories, such as person names, organization names, and location names. 
+
+#Slide: 6
+#Header: SENTIMENT ANALYSIS
+#Content: Sentiment analysis is the process of identifying and extracting opinions, sentiments, and emotions expressed in text. 
+
+#Slide: 7
+#Header: TOPIC MODELING
+#Content: Topic modeling is the process of automatically identifying topics present in text documents and grouping them together based on their similarity. 
+
+#Slide: 8
+#Header: TEXT CLASSIFICATION
+#Content: Text classification is the process of classifying documents or pieces of text into predefined categories.
+
+#Slide: 9
+#Header: CONCLUSION
+#Content: Natural language processing has a wide range of applications, from chatbots and virtual assistants to sentiment analysis and topic modeling. It is a rapidly growing field with a lot of potential in the future. 
+
+#Slide: 10
+#Header: SUMMARY
+#Content: In this presentation we introduced natural language processing, and covered its various subfields, such as tokenization, parts of speech tagging, named entity recognition, sentiment analysis, topic modeling, and text classification. We also highlighted its potential in the future.
+
+#Slide: END

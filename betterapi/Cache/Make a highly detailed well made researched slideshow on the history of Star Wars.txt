@@ -1,0 +1,45 @@
+#Title: The History of Star Wars
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction
+2. The Original Trilogy
+3. The Prequel Trilogy
+4. The Sequel Trilogy
+5. Standalone Films
+6. The Star Wars Expanded Universe
+7. Conclusion
+
+#Slide: 2
+#Header: Introduction
+#Content: In 1977, Star Wars was released and became a cultural phenomenon. This presentation highlights the history of the franchise that has spanned over 40 years.
+
+#Slide: 3
+#Header: The Original Trilogy
+#Content: The original trilogy, which consists of A New Hope, The Empire Strikes Back, and Return of the Jedi, was released between 1977 and 1983. They introduced us to iconic characters like Luke Skywalker, Princess Leia, and Han Solo.
+
+#Slide: 4
+#Header: The Prequel Trilogy
+#Content: The prequel trilogy, which consists of The Phantom Menace, Attack of the Clones, and Revenge of the Sith, was released between 1999 and 2005. These films told the story of a young Anakin Skywalker and his eventual transformation into Darth Vader.
+
+#Slide: 5
+#Header: The Sequel Trilogy
+#Content: The sequel trilogy, which consists of The Force Awakens, The Last Jedi, and The Rise of Skywalker, was released between 2015 and 2019. They introduced us to a new generation of heroes, including Rey, Finn, and Poe.
+
+#Slide: 6
+#Header: Standalone Films
+#Content: In addition to the main saga, there are also standalone films like Rogue One and Solo that explore other aspects of the Star Wars universe.
+
+#Slide: 7
+#Header: The Star Wars Expanded Universe
+#Content: The Star Wars Expanded Universe comprises books, comics, video games, and other media that expand the Star Wars universe beyond the films.
+
+#Slide: 8
+#Header: Conclusion
+#Content: The Star Wars universe has captivated audiences for over four decades and continues to evolve and expand.
+
+#Slide: 9
+#Header: Summary
+#Content: This presentation explored the history of the Star Wars franchise, including the original trilogy, prequel trilogy, sequel trilogy, standalone films, and expanded universe.
+
+#Slide: END

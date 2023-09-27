@@ -1,0 +1,27 @@
+#Title: Dangers of Smartphone Use
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction
+2. Physical Dangers
+3. Mental Health Dangers
+4. Social Dangers
+5. Conclusion
+
+#Slide: 2
+#Header: Physical Dangers
+#Content: Repetitive strain injuries, eye strain, back pain, poor posture, and other common physical health hazards associated with excessive smartphone use.
+
+#Slide: 3
+#Header: Mental Health Dangers
+#Content: Smartphones are linked to anxiety, depression, and sleep disorders. Addiction can also impact one's psychological well-being.
+
+#Slide: 4
+#Header: Social Dangers
+#Content: Over-reliance on mobile phones can be catastrophic to interpersonal relationships. Being on the phone constantly can also affect our ability to concentrate, work, and learn important skills.
+
+#Slide: 5
+#Headers: Summary
+#Content: Excessive smartphone use impacts physical, mental, and social health. Screens manage attention and create distractions. It is essential to use smartphones in a healthier way.
+
+#Slide: End

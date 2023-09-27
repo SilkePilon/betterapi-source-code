@@ -1,0 +1,51 @@
+#Title: BRUH
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Overview: What is "Bruh"
+2. History of "Bruh"
+3. Popularity of "Bruh"
+4. Examples of "Bruh"
+5. Variations of "Bruh"
+6. The Future of "Bruh"
+7. Conclusion
+
+#Slide: 2
+#Header: What is "Bruh"
+#Content: 
+"Bruh" is a slang term that is used to express different emotions such as shock, disbelief, or annoyance. It can also be used as a greeting between friends.
+
+#Slide: 3
+#Header: History of "Bruh"
+#Content: 
+The origin of "Bruh" is uncertain, but it is believed to have come from the word "Bro" or "Brother." It became popular in the early 2010s through online memes and social media.
+
+#Slide: 4
+#Header: Popularity of "Bruh"
+#Content: 
+"Bruh" has become a popular expression in pop culture and is often seen in music, television, and movies. It has also been incorporated into mainstream vocabulary.
+
+#Slide: 5
+#Header: Examples of "Bruh"
+#Content: 
+- "Bruh, did you see that?"
+- "Bruh, what are you doing?"
+- "Bruh, that's crazy!"
+
+#Slide: 6
+#Header: Variations of "Bruh"
+#Content: 
+"Bro," "Brah," "Broski," and "Bruv" are some variations of "Bruh" that are used in different regions and cultures.
+
+#Slide: 7
+#Header: The Future of "Bruh"
+#Content: 
+As slang terms evolve and change, the future of "Bruh" remains uncertain. It may continue to be a popular expression, or it may eventually become outdated.
+
+#Slide: 8
+#Header: Conclusion
+#Content: 
+Overall, "Bruh" is a versatile and widely used slang term that has a rich history and continues to be popular in pop culture. Its future is unknown, but for now, it remains an integral part of modern slang.
+
+#Slide: END

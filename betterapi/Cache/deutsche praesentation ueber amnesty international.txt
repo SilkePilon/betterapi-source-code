@@ -1,0 +1,32 @@
+#Title: Über Amnesty International
+
+#Slide: 1
+#Header: Inhaltsverzeichnis
+#Content: 1. Was ist Amnesty International?
+2. Geschichte von Amnesty International
+3. Mission von Amnesty International
+4. Standorte von Amnesty International
+
+#Slide: 2
+#Header: Geschichte von Amnesty International
+#Content: Amnesty International ist eine globale Bewegung. Sie wurde 1961 gegründet, um die Menschenrechte zu schützen und zu fördern. Peter Benenson, der Gründer, war ein engagierter Aktivist, der die Welt zu einem besseren Ort machen wollte.
+
+#Slide: 3
+#Header: Was ist Amnesty International?
+#Content: Amnesty International ist eine gemeinnützige Organisation, die weltweit für die Einhaltung der Menschenrechte kämpft. Ihr Ziel ist es, politische Gefangene freizulassen, Folter und Todesstrafe abzuschaffen und die Meinungsfreiheit zu schützen.
+
+#Slide: 4
+#Header: Mission von Amnesty International
+#Content: Die Mission von Amnesty International ist es, "Menschenrechtsverletzungen zu beenden und freie Gesellschaften zu schaffen, in denen jedermann seine Meinungsfreiheit ausüben kann." Die Organisation arbeitet an vielen verschiedenen Fronten, um dieses Ziel zu erreichen.
+
+#Slide: 5
+#Header: Standorte von Amnesty International
+#Content: Amnesty International hat Niederlassungen in über 150 Ländern. Bürger auf der ganzen Welt arbeiten zusammen, um Kampagnen durchzuführen, lokale Organisationen zu unterstützen und internationale Koalitionen zu bilden.
+
+#Slide: 6
+#Header: Aktuelle Kampagnen
+#Content: Amnesty International setzt sich derzeit für viele verschiedene Anliegen ein, wie z. B. die Unterstützung von Flüchtlingen, den Kampf gegen Folter und die Todesstrafe sowie die Förderung der Geschlechtergerechtigkeit.
+
+#Slide: 7
+#Header: Wie man helfen kann
+#Content: Es gibt viele Möglichkeiten, sich an den Kampagnen von Amnesty International zu beteiligen. Dies kann beispielsweise durch Spenden oder durch die Unterstützung von Online-Petitionen und Aktivitäten in sozialen Med

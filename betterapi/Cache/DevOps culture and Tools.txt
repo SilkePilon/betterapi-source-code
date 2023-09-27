@@ -1,0 +1,55 @@
+#Title: DevOps Culture and Tools
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. DevOps Culture
+2. Benefits of DevOps 
+3. DevOps Life Cycle 
+4. DevOps Tools
+
+#Slide: 2
+#Header: DevOps Culture
+#Content: DevOps Culture is a collaboration between development and operations teams to enhance the software delivery process through automation, communication, and coordination.
+
+#Slide: 3
+#Header: Benefits of DevOps
+#Content: Benefits of DevOps include faster delivery, higher quality of software, increased efficiency, and improved customer satisfaction.
+
+#Slide: 4
+#Header: DevOps Life Cycle
+#Content: The DevOps life cycle consists of several phases: plan, develop, test, deploy, operate, and monitor.
+
+#Slide: 5
+#Header: DevOps Tools 
+#Content: Some popular DevOps tools include Git, Jenkins, Docker, Kubernetes, Ansible, and Prometheus.
+
+#Slide: 6
+#Header: Git 
+#Content: Git is a version control system that allows teams to collaborate on the same codebase and track changes effectively.
+
+#Slide: 7
+#Header: Jenkins 
+#Content: Jenkins is an automation server that helps automate code builds, tests, and deployments.
+
+#Slide: 8
+#Header: Docker 
+#Content: Docker is a platform that enables teams to create and run applications in containers in a reproducible manner to simplify deployment.
+
+#Slide: 9
+#Header: Kubernetes 
+#Content: Kubernetes is an open-source container orchestration system that automates container application deployment, scaling, and management.
+
+#Slide: 10
+#Header: Ansible 
+#Content: Ansible is an automation tool that allows teams to automate infrastructure and application deployments across multiple servers.
+
+#Slide: 11
+#Header: Prometheus 
+#Content: Prometheus is a monitoring and alerting tool that provides metrics and visualization to track workflows and detect issues.
+
+#Slide: 12
+#Header: Summary
+#Content: In summary, DevOps culture, practices, and tools can significantly improve software delivery, team collaboration, and customer satisfaction.
+
+#Slide: END

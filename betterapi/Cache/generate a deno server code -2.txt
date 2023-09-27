@@ -1,0 +1,57 @@
+#Title: Generating a Deno Server
+
+#Slide: 1
+#Header: Introduction to Deno
+#Content: Deno is a secure runtime for JavaScript and TypeScript that provides a modern approach to building server-side applications.
+
+#Slide: 2
+#Header: Installation and Setup
+#Content: First, we need to make sure Deno is installed on our system. To do this, run the following command in your terminal: "deno --version". If you don’t have Deno installed, you can install it by running: "curl -fsSL https://deno.land/x/install/install.sh | sh" or use the pre-built installers.
+
+#Slide: 3
+#Header: Creating a New Deno Project
+#Content: To create a new Deno project, you need to create a new folder and then create a new file inside it with the ".ts" extension. This will be your main entry file. Then you can run "deno run --allow-net app.ts" to start the server.
+
+#Slide: 4
+#Header: Writing the Server Code
+#Content: Here's a simple example of how to create a Deno server:
+
+```typescript
+import { serve } from "https://deno.land/std/http/server.ts";
+
+const server = serve({ port: 8000 });
+
+console.log("Server running on http://localhost:8000/");
+
+for await (const req of server) {
+  req.respond({ body: "Hello World\n" });
+}
+```
+
+#Slide: 5
+#Header: Adding Routes
+#Content: You can add routes to your Deno server by using a third-party library such as Oak or ABC. Here's an example of how to add a route using Oak:
+
+```typescript
+import { Application, Router } from "https://deno.land/x/oak/mod.ts";
+
+const router = new Router();
+router.get("/", (ctx) =&gt; {
+  ctx.response.body = "Hello World!";
+});
+
+const app = new Application();
+app.use(router.routes());
+app.use(router.allowedMethods());
+
+await app.listen({ port: 8000 });
+```
+
+#Slide: 6
+#Header: Adding Middleware
+#Content: Deno also supports middleware, which are functions that can modify the request or response as it passes through the server. Here's an example of how to add middleware using Oak:
+
+```typescript
+import { Application } from "https://deno.land/x/oak/mod.ts";
+
+const app = new Application

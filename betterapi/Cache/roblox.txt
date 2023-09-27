@@ -1,0 +1,41 @@
+#Title: Introduction to Roblox
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. What is Roblox?
+2. Gameplay and Features
+3. Creating a Roblox Account
+4. Finding Games to Play
+5. Building Your Own Games
+6. Monetizing Your Creations
+7. Roblox and Community
+
+#Slide: 2
+#Header: What is Roblox?
+#Content: Roblox is a massively multiplayer online gaming platform where players can create their own virtual worlds and games. With over 150 million monthly active users, Roblox is a popular destination for gamers and game developers alike.
+
+#Slide: 3
+#Header: Gameplay and Features
+#Content: Roblox offers a wide variety of games and activities, ranging from role-playing games to action-packed adventures. Players can customize their own avatars, build structures with virtual blocks, and interact with other players in a virtual world.
+
+#Slide: 4
+#Header: Creating a Roblox Account
+#Content: To get started with Roblox, simply create an account on the Roblox website. You can choose a username and password, and then customize your avatar to your liking. Once you have an account, you can start playing games and exploring the platform.
+
+#Slide: 5
+#Header: Finding Games to Play
+#Content: There are many ways to find games to play on Roblox. You can search for games by category, or browse the most popular games on the platform. You can also join groups or follow friends to see what games they are playing.
+
+#Slide: 6
+#Header: Building Your Own Games
+#Content: If you have a creative streak, you can build your own games on Roblox. The platform offers a variety of tools and resources for game development, including a proprietary game engine and a robust scripting language.
+
+#Slide: 7
+#Header: Monetizing Your Creations
+#Content: You can earn money on Roblox by selling in-game items and virtual experiences. If you create popular games, you may also be eligible for the Roblox Developer Exchange, which allows developers to convert virtual currency into real money.
+
+#Slide: 8
+#Header: Roblox and Community
+#Content: Roblox is known for its engaged and supportive community of players and developers. With forums, chat rooms, and social media channels, the platform provides many opportunities for users to connect with one another and share their experiences.
+
+#Slide

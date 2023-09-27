@@ -1,0 +1,29 @@
+#Title: Gerarchi Aziendali
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduzione
+2. Tipi di Gerarchie Aziendali
+3. Vantaggi e Svantaggi delle Gerarchie Aziendali
+4. Struttura delle Gerarchie Aziendali
+5. Ruoli e Responsabilità
+
+#Slide: 2
+#Header: Introduzione
+#Content: Una gerarchia aziendale è la struttura organizzativa di un'azienda. È importante conoscere la gerarchia dell'organizzazione per comprendere le responsabilità e le relazioni tra le persone
+
+#Slide: 3
+#Header: Tipi di Gerarchie Aziendali
+#Content: Le gerarchie possono essere funzionali con divisione per aree (marketing, finanza, produzione), linueari e miste. Ognuna ha pro e contro che verranno discusse nel prossimo slide. 
+
+#Slide: 4
+#Header: Vantaggi e Svantaggi delle Gerarchie Aziendali
+#Content: I vantaggi di una gerarchia aziendale includono la chiarezza delle responsabilità, una maggiore efficienza e flessibilità nella programmazione del lavoro. Tuttavia, possono portare all'eccessiva delocalizzazione delle decisioni, lo scarso coinvolgimento dei dipendenti e bassa innovazione.
+
+#Slide: 5
+#Header: Struttura delle Gerarchie Aziendali
+#Content: Le aziende hanno solitamente una gerarchia verticale, con la cima dell'azienda rappresentata dal CEO/proprietario. Altre posizioni di solito includono amministrazione, marketing, vendite, produzione, e risorse umane.
+
+#Slide: 6
+#Header: Ruoli e Responsabilità
+#Content: Le gerarchie aziendali impongono responsabilità e autorità ai dipendenti. In una grande azienda, ad esempio, il CEO ha il potere di assumere/cessare gli impiegati ed effettuare grosse manovre di bilancio, mentre i dipendenti di ruolo inferiore eseguono le attività

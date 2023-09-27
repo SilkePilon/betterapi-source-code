@@ -1,0 +1,46 @@
+#Title: The Importance of Cybersecurity
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. What is Cybersecurity?
+2. What Are the Risks?
+3. Types of Cyber Threats
+4. Defense Against Cyber Attacks
+
+#Slide: 2
+#Header: What is Cybersecurity?
+#Content: 
+Cybersecurity is the protection of internet-connected systems, including hardware, software and data, from attack, damage or unauthorized access.
+
+#Slide: 3
+#Header: What Are the Risks?
+#Content: 
+The risks of a cyber attack include data theft, data destruction, and data alteration, with potential consequences including financial loss, lawsuits, damage to reputation, and loss of sensitive data.
+
+#Slide: 4
+#Header: Types of Cyber Threats
+#Content: 
+Common threats include computer viruses, trojan horses, spyware, and phishing attacks. Other threats include ransomware, cyber-espionage and cyber-terrorism.
+
+#Slide: 5
+#Header: Defense Against Cyber Attacks
+#Content: 
+Defenses against cyber attacks include using strong passwords, two-factor authentication, keeping software up to date, and avoiding suspicious links and attachments. Also important is education of employees in how to recognize and react to cyber attacks.
+
+#Slide: 6
+#Header: How to Protect Your Business
+#Content: 
+To protect your business, regular security training, managed security services, and security assessments can help identify and mitigate potential security weaknesses.
+
+#Slide: 7
+#Header: Compliance Standards
+#Content: 
+Compliance standards, like HIPAA and GDPR, require businesses to implement certain security measures to protect sensitive data. Non-compliance can lead to legal consequences and penalties.
+
+#Slide: 8
+#Header: Summary
+#Content: 
+Cybersecurity is essential, as it protects internet-connected systems from unauthorized access and cyber attacks. Cyber threats include viruses, trojan horses, and phishing attacks, and defenses include strong passwords, keeping software up to date, and regular training of agents.
+
+#Slide: END

@@ -1,0 +1,40 @@
+#Title: Terracotta Figurines in Burial in Prehistoric China
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to Terracotta Figurines
+2. History of Terracotta Figurines in China
+3. Role of Terracotta Figurines in Burial in Prehistoric China
+4. Types of Terracotta Figurines
+5. Preservation of Terracotta Figurines
+6. Significance of Terracotta Figurines
+
+#Slide: 2
+#Header: Introduction to Terracotta Figurines
+#Content: Terracotta figurines have played an important role in the burial practices of prehistoric China.
+
+#Slide: 3
+#Header: History of Terracotta Figurines in China
+#Content: The use of terracotta figurines in China dates back to the Neolithic period, when they were used in burials to provide protection for the deceased in the afterlife.
+
+#Slide: 4
+#Header: Role of Terracotta Figurines in Burial in Prehistoric China
+#Content: Terracotta figurines were believed to have spiritual power and could protect the deceased in the afterlife. They were often placed in the tomb alongside the deceased.
+
+#Slide: 5
+#Header: Types of Terracotta Figurines
+#Content: Terracotta figurines come in a variety of shapes and sizes, including warriors, animals, and everyday objects. Some figurines were commissioned specifically for individual burials.
+
+#Slide: 6
+#Header: Preservation of Terracotta Figurines
+#Content: Terracotta figurines have historically been prone to damage due to their fragility and the conditions of their burial. However, modern conservation efforts have enabled many of these figurines to be preserved for study and display.
+
+#Slide: 7
+#Header: Significance of Terracotta Figurines
+#Content: The use of terracotta figurines in prehistoric China provides insights into the religious and cultural traditions of this period. The skill and artistry present in many of these figurines highlights the creativity and craftsmanship of ancient Chinese artisans.
+
+#Slide: 8
+#Header: Conclusion
+#Content: Terracotta figurines played an important role in burial practices in prehistoric China. Through their preservation and study, we gain insights into the beliefs and traditions of this period.
+
+#Slide: END

@@ -1,0 +1,45 @@
+#Title: Why Public Transit is a Better Alternative to Highways
+
+#Slide: 1
+#Header: table of contents
+#Content: 1. Introduction
+2. Problems with Highways
+3. Benefits of Public Transit
+4. Environmental Impact
+5. Economic Impact
+6. Safety Issues
+7. Conclusion 
+
+#Slide: 2
+#Header: Introduction
+#Content: Highways are convenient for personal transportation, but they pose several problems. Public transit is a better alternative for several reasons.
+
+#Slide: 3
+#Header: Problems with Highways
+#Content: Highways lead to increased traffic congestion, air pollution, and accidents. They also require expensive maintenance and do not promote sustainable transportation.
+
+#Slide: 4
+#Header: Benefits of Public Transit
+#Content: Public transit is cost-effective, environmentally-friendly, and reliable. It also reduces traffic congestion and improves community health and well-being.
+
+#Slide: 5
+#Header: Environmental Impact
+#Content: Highways contribute to air pollution, greenhouse gas emissions, and noise pollution. Public transit reduces these negative impacts by using clean energy sources, reducing traffic congestion, and reducing reliance on personal vehicles.
+
+#Slide: 6
+#Header: Economic Impact
+#Content: Highways require expensive construction and maintenance, while public transit is more economical and has a lower cost per passenger. Public transit also promotes economic growth by connecting communities and encouraging public investment.
+
+#Slide: 7
+#Header: Safety Issues
+#Content: Highways increase the risk of accidents and injuries, while public transit is a safer alternative. Public transit systems have safety measures in place to protect passengers and prevent accidents.
+
+#Slide: 8
+#Header: Conclusion
+#Content: Public transit is a better alternative to highways because it is cost-effective, environmentally-friendly, reliable, and safe. Switching to public transit is an important step in promoting sustainable transportation and improving community health and well-being.
+
+#Slide: 9
+#Headers: Summary
+#Content: Public transit is a better alternative to highways because it is economical, environmentally-friendly, and safe. It reduces traffic congestion and promotes community health and well-being. Switching to public transit is a crucial step in promoting sustainable transportation for the future.
+
+#Slide: END

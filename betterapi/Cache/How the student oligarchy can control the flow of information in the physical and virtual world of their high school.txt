@@ -1,0 +1,17 @@
+To replicate the folders using DFS, you can follow these steps:
+
+1. Create a new namespace on the DC01 server by opening the DFS Management Console and right-clicking on "Namespaces" to select "New Namespace".
+
+2. Specify the name of the namespace, such as `justice.lan`, and choose the server that will host the namespace, which would be the DC01 server in this case.
+
+3. Add folders to the namespace by right-clicking on it and selecting "New Folder". Select the folder from the DFSRoots folder that you want to replicate, such as `GroupData`. You can also specify folder targets, which would be the SV01 server in this case.
+
+4. Set up replication by opening the DFS Management Console, navigating to the Replication section, and selecting "New Replication Group". Select the DC01 server as the primary member and the SV01 server as the secondary member.
+
+5. Add folders to the replication group by selecting "Add folder" in the Replication tab. Select the folder from the DFSRoots folder that you want to replicate, such as `GroupData`.
+
+6. Choose the replication topology, such as "Full Mesh" or "Hub and spoke", and set the replication schedule and bandwidth.
+
+7. Monitor the replication by checking the DFS Management Console for any errors or warnings.
+
+After this configuration, you can access the files and folders in the same way, even if the DC01 server were to be disabled or offline. The file access would be redirected to the SV01 server, as long as it is online and the replication is working properly.
